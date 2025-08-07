@@ -1,0 +1,59 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x86",
+      "includePath": [
+        "C:/MinGW/include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "C:/MinGW/bin/gcc.exe",
+      "intelliSenseMode": "windows-gcc-x86",
+      "cStandard": "${default}",
+      "cppStandard": "${default}"
+    },
+    {
+      "name": "\"includePath\": [     \"${workspaceFolder}/**\",     \"C:/MinGW/lib/gcc/mingw32/6.3.0/include\",     \"C:/MinGW/include\",     \"C:/MinGW/lib/gcc/mingw32/6.3.0/include-fixed\" ],",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "cl.exe",
+      "intelliSenseMode": "windows-msvc-x64"
+    },
+    {
+      "name": "c",
+      "includePath": [
+        "C:/MinGW/include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "cl.exe",
+      "intelliSenseMode": "windows-msvc-x64"
+    },
+    {
+      "name": "c",
+      "includePath": [
+        "C:/MinGW/include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "cl.exe",
+      "intelliSenseMode": "windows-msvc-x64"
+    }
+  ],
+  "version": 4
+}
