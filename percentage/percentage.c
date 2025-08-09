@@ -17,7 +17,7 @@ int main(){
     scanf("%d", &studScore);
 
     //calculating percentage
-    percent = (float) studScore/totalScore*100;
+    percent = (float) studScore/totalScore*100; // explicit typecasting from int to float 
 
 
     //printing percentage 
